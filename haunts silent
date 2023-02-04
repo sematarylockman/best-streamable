@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/sematarylockman/haunts-source/main/dontskidnigga?token=GHSAT0AAAAAAB6JTLGMHGDDGDAZNAFCLRUQY662T4Q"))()
+local Aiming = loadstring(game:HttpGet("https://github.com/sematarylockman/haunts-source/raw/main/dontskidnigga"))()
 Aiming.TeamCheck(false)
 
 -- // Services
